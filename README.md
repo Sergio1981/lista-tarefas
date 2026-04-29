@@ -12,7 +12,7 @@ Em vez de pedir para a IA criar o código sem direção, o `guia.md` especifica 
 
 ## 📹 Sobre o Vídeo e o Projeto
 
-Criei um vídeo mostrando como é fácil criar uma aplicação de lista de tarefas usando Next.js, mas demonstrando principalmente que é possível usar este `guia.md` (gerado em ferramentas como o **Gemini** ou **ChatGPT**) para instruir a IA a gerar uma aplicação robusta com **Agents, Skills e SDD (Software Design Document)** de forma automatizada e profissional.
+Criei um vídeo https://www.youtube.com/watch?v=SMLzEk-U0F4 mostrando como é fácil criar uma aplicação de lista de tarefas usando Next.js, mas demonstrando principalmente que é possível usar este `guia.md` (gerado em ferramentas como o **Gemini** ou **ChatGPT**) para instruir a IA a gerar uma aplicação robusta com **Agents, Skills e SDD (Software Design Document)** de forma automatizada e profissional.
 
 Além disso, o vídeo demonstra como você pode utilizar o assistente **Antigravity** dentro do seu editor: basta criar a pasta do projeto previamente, inserir o `guia.md` nela, e enviar um prompt simples como *"crie a aplicação usando o guia.md nesta pasta"*. A IA lerá o arquivo como contexto e construirá toda a arquitetura e funcionalidades para você!
 
